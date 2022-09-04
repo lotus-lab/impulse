@@ -8,11 +8,11 @@ import './Translations';
 import NetInfo from '@react-native-community/netinfo';
 import { onlineManager } from '@tanstack/react-query';
 
-import { focusManager } from '@tanstack/react-query';
+import { focusManager, QueryClientProvider, QueryClient } from '@tanstack/react-query';
 import { AppState, AppStateStatus, Platform } from 'react-native';
 import { ThemeProvider } from '@emotion/react';
 import { theme } from './Theme/themes/theme';
-
+const queryClient = new QueryClient()
 const App = () => {
   onlineManager.setEventListener(setOnline => {
     return NetInfo.addEventListener(state => {
@@ -41,9 +41,11 @@ const App = () => {
        * @see https://github.com/rt2zz/redux-persist/blob/master/docs/PersistGate.md
        */}
       <PersistGate loading={null} persistor={persistor}>
-        <ThemeProvider theme={theme}>
-          <Navigator />
-        </ThemeProvider>
+        <QueryClientProvider client={queryClient}>
+          <ThemeProvider theme={theme}>
+            <Navigator />
+          </ThemeProvider>
+        </QueryClientProvider>
       </PersistGate>
     </Provider>
   );

@@ -33,8 +33,7 @@
 
 ## Motivation
 
-In today era choosing the right stack for your application has become hard and overwhelming, because of the varity of stack available.
-what motivate as to create a template for react-native is that there are not satisfying template that uses the stack listed above, this techs are the most backed and supported than any other stacks
+Because of the variety of stacks available today, selecting the right stack for your application has become difficult and overwhelming. What motivated me to create a template for react-native is that there are no satisfying templates that use the above-mentioned stacks, which are the most backed and supported of any other stacks.
 
 ## Features
 
