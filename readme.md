@@ -35,13 +35,12 @@ Because of the variety of stacks available today, selecting the right stack for 
 
 - 🔧 Typescript: because it is the modern way of writing javascript
 - 🔥 Graphql: it is the modern way of api
-- 🔥 Graphql: it is the modern way of api
-- 📦 Tanck Stack: for handling server side state (why not apollo?)
+- 📦 React query Stack: for handling server side state (why not apollo?)
 - 💄 Redux (toolkit): for handling ui state
-- 📝 Formik (toolkit): for handling form state
+- 📝 Formik: for handling form state
 - 🧹 @emotion: as ui engine for your design
 - ✨ Styled-system: realy helps you to create your own design sytem
 
 ## Contribution
 
-Feel free to contribute to this project, it is my pleasure to welcome you!.
+Please feel free to contribute to this project, it is my pleasure to welcome you!.

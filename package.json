@@ -1,6 +1,6 @@
 {
   "name": "impulse-rn",
-  "version": "0.0.6",
+  "version": "0.0.7",
   "keywords": ["impulse-rn", "react-native", "template", "react-native template", "graphql", "react query", "react", "redux", "typescript", "@emotion", "styled system", "formik"],
   "description": "React Native Template",
   "repository": {
