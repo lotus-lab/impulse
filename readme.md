@@ -21,15 +21,27 @@
 </span>
 </div>
 
+## Installation
+
+```bash
+npx react-native init SomeApp --template impulse-rn
+```
+
 ## Motivation
 
 Because of the variety of stacks available today, selecting the right stack for your application has become difficult and overwhelming. What motivated me to create a template for react-native is that there are no satisfying templates that use the above-mentioned stacks, which are the most backed and supported of any other stacks.
 
 ## Features
 
+- 🔧 Typescript: because it is the modern way of writing javascript
+- 🔥 Graphql: it is the modern way of api
 - 🔥 Graphql: it is the modern way of api
 - 📦 Tanck Stack: for handling server side state (why not apollo?)
 - 💄 Redux (toolkit): for handling ui state
 - 📝 Formik (toolkit): for handling form state
 - 🧹 @emotion: as ui engine for your design
 - ✨ Styled-system: realy helps you to create your own design sytem
+
+## Contribution
+
+Feel free to contribute to this project, it is my pleasure to welcome any feedback
