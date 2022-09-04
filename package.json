@@ -1,10 +1,10 @@
 {
-  "name": "impulse",
+  "name": "impulse-rn",
   "version": "0.0.1",
   "description": "React Native Template",
   "repository": {
-    "url":"https://github.com/lotus-lab/impulse.git", 
-    "directory": "https://github.com/lotus-lab/impulse.git"
+    "url":"https://github.com/lotus-lab/impulse-rn.git", 
+    "directory": "https://github.com/lotus-lab/impulse-rn.git"
   },
   "author": "lotus-lab <humedessie@gmail.com>",
   "license": "MIT"
