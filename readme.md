@@ -2,7 +2,7 @@
 
 <div align="center">
 <span align="center">
-Graphql <img width='50px' src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/graphql-icon.png" alt="Graphql">
+<img width='50px' src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/graphql-icon.png" alt="Graphql">
 </span>
 <span align="center">
 <img width='50px' src="https://react-query-v3.tanstack.com/_next/static/images/emblem-light-628080660fddb35787ff6c77e97ca43e.svg" alt="tanstack">
