@@ -1,6 +1,7 @@
 {
   "name": "impulse-rn",
-  "version": "0.0.5",
+  "version": "0.0.6",
+  "keywords": ["impulse-rn", "react-native", "template", "react-native template", "graphql", "react query", "react", "redux", "typescript", "@emotion", "styled system", "formik"],
   "description": "React Native Template",
   "repository": {
     "url":"https://github.com/lotus-lab/impulse-rn.git", 

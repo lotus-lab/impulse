@@ -44,4 +44,4 @@ Because of the variety of stacks available today, selecting the right stack for 
 
 ## Contribution
 
-Feel free to contribute to this project, it is my pleasure to welcome any feedback
+Feel free to contribute to this project, it is my pleasure to welcome you!.
