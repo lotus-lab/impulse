@@ -1,6 +1,6 @@
 # impulse-rn
 
-<div style="display:flex; justify-content:space-around;">
+<div style="display:flex; justify-content:space-around;" display="flex" justify-content="space-around" >
 <span style="margin-right:10px;" align="center">
 <img width='50px' src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/graphql-icon.png" alt="Graphql">
 </span>
